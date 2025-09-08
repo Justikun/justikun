@@ -1,6 +1,6 @@
 ## 👋 JUSTIN LOWRY
 
-<a href="https://instagram.com/justintlowry" target="_blank"> <img src="https://img.shields.io/badge/instagram-white?style=flat" alt="Instagram" /></a> <a href="https://x.com/justintlowry" target="_blank"> <img src="https://img.shields.io/badge/x-black?style=flat" alt="X" /></a>
+<a href="https://instagram.com/justintlowry" target="_blank"> <img src="https://img.shields.io/badge/instagram-black?style=flat" alt="Instagram" /></a> <a href="https://x.com/justintlowry" target="_blank"> <img src="https://img.shields.io/badge/x-black?style=flat" alt="X" /></a>
 
 I am a follower of Christ and love God. I’m on a quest to discover the digital, physical, and spiritual world.
 
