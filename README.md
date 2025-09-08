@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 JUSTIN LOWRY
 
-<!--
-**Justikun/justikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+THAT'S THE THING ABOUT LIFE; YOU GET TO DESIGN IT,
+CREATE IT, AND LIVE IT.
 
-Here are some ideas to get you started:
+🌐 Check out my website → [jnury.com](https://jnury.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a follower of Christ and love God. I’m on a quest to discover the digital, physical, and spiritual world.
+
+---
+
+## 🔭 What I’m Working On
+- Learning: Go & Python. Mojo looks incredibly interesting.
+- Metadata Viewer
+
+## 💡 Contributions & Highlights
+- Contributed to [**Omarchy**](https://github.com/basecamp/omarchy): added the Osaka Jade theme 🌱
+
+---
+
+## 📫 Get In Touch
+- [Instagram](https://instagram.com/justintlowry)
+- [X](https://x.com/justintlowry)
+- GitHub Discussions / Issues — always open to feedback or ideas
+
+iusevimbtw
