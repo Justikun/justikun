@@ -1,6 +1,6 @@
 ## 👋 JUSTIN LOWRY
 
-[Instagram](https://instagram.com/justintlowry) | [X](https://x.com/justintlowry)
+[Instagram](https://instagram.com/justintlowry) | https://img.shields.io/badge/X-black?link=https%3A%2F%2Fx.com%2Fjustikun
 
 I am a follower of Christ and love God. I’m on a quest to discover the digital, physical, and spiritual world.
 
