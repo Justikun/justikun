@@ -1,6 +1,6 @@
 ## 👋 JUSTIN LOWRY
 
-![Static Badge](https://img.shields.io/badge/instagram-white?style=flat&link=https%3A%2F%2Finstagram.com%2Fjustintlowry) ![Static Badge](https://img.shields.io/badge/X-black?link=https%3A%2F%2Fx.com%2Fjustikun)
+<a href="https://instagram.com/justintlowry" target="_blank"> <img src="https://img.shields.io/badge/instagram-white?style=flat" alt="Instagram" /></a> <a href="https://x/justintlowry" target="_blank"> <img src="https://img.shields.io/badge/x-black?style=flat" alt="X" /></a>
 
 I am a follower of Christ and love God. I’m on a quest to discover the digital, physical, and spiritual world.
 
