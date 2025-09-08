@@ -12,5 +12,5 @@ I am a follower of Christ and love God. I’m on a quest to discover the digital
 
 - iusevimbtw
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,swift&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,swift,neovim&theme=light)](https://skillicons.dev)
 
